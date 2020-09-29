@@ -22,4 +22,4 @@ print(vegetables)
 for vegetable in vegetables:
     print(vegetable)
 
-    print("Hiszpańska Inkwizycja - to skecz")
+    print("Hiszpańska Inkwizycja - to skecz") #to do zmiany
