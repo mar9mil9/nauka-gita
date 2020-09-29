@@ -21,3 +21,5 @@ print(vegetables)
 
 for vegetable in vegetables:
     print(vegetable)
+
+    print("Hiszpańska Inkwizycja")
