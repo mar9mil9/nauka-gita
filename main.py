@@ -23,3 +23,7 @@ for vegetable in vegetables:
     print(vegetable)
 
     print("Hiszpańska Inkwizycja - to skecz") #to do zmiany
+
+    #To jest wpis zmian do ćwiczenia - commit 1
+    
+    
