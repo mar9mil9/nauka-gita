@@ -13,7 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 '''
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#usuniety wpis - commit 2
 
 vegetables = ["burak", "ziemniak", "szczypior", "cebula", "pataty", "papryka", "fasola", "bakłażan"]
 
